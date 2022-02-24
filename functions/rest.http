@@ -1,0 +1,10 @@
+GET http://localhost:5001/cloud-functions-3437a/us-central1/api
+
+###
+POST http://localhost:5001/cloud-functions-3437a/us-central1/api
+Content-Type: application/json
+
+{
+    "name": "Rupak",
+    "age": 5
+}
